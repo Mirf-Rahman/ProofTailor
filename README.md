@@ -1,5 +1,7 @@
 # ProofTailor
 Information
 
-Tech
+Tech Stack
+
+
 ...
